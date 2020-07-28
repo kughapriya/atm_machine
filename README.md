@@ -1,5 +1,5 @@
 ATM MACHINE
-atm_machine
+backend developemtn for atm_machine
 To develop functionality for ATM
 requirements:
 1.Create an API to register a user's card (8-digits) and ATM Pin (4-digits)  
